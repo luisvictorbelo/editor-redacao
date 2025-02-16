@@ -26,7 +26,7 @@ O aplicativo está publicado na Vercel e pode ser acessado através do seguinte 
 ### 1️⃣ Clone o Repositório
 ```sh
 git clone https://github.com/luisvictorbelo/editor-redacao
-cd react-paragraph-editor
+cd editor-redacao
 ```
 
 ### 2️⃣ Instale as Dependências
